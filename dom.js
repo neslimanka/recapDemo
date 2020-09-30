@@ -1,0 +1,1 @@
+document.getElementById("bio").innerHTML="Neslihan Karahüyük : 2020"
